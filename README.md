@@ -2,7 +2,7 @@ Shelfie
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Huy Pham, Hiep Nguyen, Hung Luong
+Designed and developed by: Huy Pham, Hiep Nguyen, Duc Hung Luong
 
 🔗 Link to deployed app: TBD
 
