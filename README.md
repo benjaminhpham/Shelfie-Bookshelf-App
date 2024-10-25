@@ -1,4 +1,4 @@
-Shelie
+Shelfie
 
 CodePath WEB103 Final Project
 
@@ -10,11 +10,11 @@ Designed and developed by: Huy Pham, Hiep Nguyen, Duc Hung Luong
 
 ### Description and Purpose
 
-Shelie is a personalized bookshelf application that helps users search for books, save their favorites, and receive curated recommendations. The app enhances the reading experience by offering book recommendations based on user history and interaction through an LLM-powered chatbot.
+Shelfie is a personalized bookshelf application that helps users search for books, save their favorites, and receive curated recommendations. The app enhances the reading experience by offering book recommendations based on user history and interaction through an LLM-powered chatbot.
 
 ### Inspiration
 
-Inspired by the need for a personalized and AI-enhanced reading experience, Shelie aims to streamline book discovery and provide users with intelligent recommendations.
+Inspired by the need for a personalized and AI-enhanced reading experience, Shelfie aims to streamline book discovery and provide users with intelligent recommendations.
 
 ## Tech Stack
 
