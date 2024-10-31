@@ -17,6 +17,6 @@ We expect to have 4 pages:
 
 ## Wireframe 3: Search page
 
-![Search_Page.png](Search_page.png)
+![Search_Page.png](Search_Page.png)
 
 
