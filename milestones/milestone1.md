@@ -7,7 +7,7 @@ This document should be completed and submitted during **Unit 5** of this course
 This unit, be sure to complete all tasks listed below. To complete a task, place an `x` between the brackets.
 
 - [x] Read and understand all required features
-- [x] Understand you **must** implement **all** baseline features and **two** custom features
+  - [x] Understand you **must** implement **all** baseline features and **two** custom features
 - [x] In `readme.md`: update app name
 - [x] In `readme.md`: add all group members' names
 - [x] In `readme.md`: complete the **Description and Purpose** section
