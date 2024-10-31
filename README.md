@@ -1,10 +1,10 @@
-Shelfie
+# Shelfie
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Huy Pham, Hiep Nguyen, Duc Hung Luong
+Designed and developed by: Huy Pham, Hiep Nguyen, Hung Luong
 
-🔗 Link to deployed app: TBD
+🔗 Link to deployed app:
 
 ## About
 
@@ -20,23 +20,29 @@ Inspired by the need for a personalized and AI-enhanced reading experience, Shel
 
 Frontend: React, Tailwind CSS/Vanilla CSS
 
-Backend: Express - Node.js, PostgreSQL, Passport.js, Railway, OpenAI API with LangChain.
+Backend: Express - Node.js, PostgreSQL, Passport.js, Railway, OpenAI API with LangChain
 
 ## Features
 
-1. Book Search Query
-   Users can search for books by title, with future plans to integrate more advanced search algorithms.
+### 1. Book Search Query
 
-   [gif goes here]
+Users can search for books by title, with future plans to integrate more advanced search algorithms.
 
-2. Account Bookmarking and Recommendation System
-   Users can save their favorite books, log in and out of their accounts, and benefit from machine learning-based book recommendations trained on their reading history. A relational database PostgreSQL and user authentication system support these features.
+[gif goes here]
 
-   [gif goes here]
+### 2. Account Bookmarking and Recommendation System
 
-3. LLM Chatbot for Book Consulting
-   A language model chatbot offers users personalized book consulting and recommendations, based on their preferences and reading habits.
+Users can save their favorite books, log in and out of their accounts, and benefit from machine learning-based book recommendations trained on their reading history. A relational database PostgreSQL and user authentication system support these features.
 
-   [gif goes here]
+[gif goes here]
+
+### 3. LLM Chatbot for Book Consulting
+
+A language model chatbot offers users personalized book consulting and recommendations, based on their preferences and reading habits.
+
+[gif goes here]
+
 
 ## Installation Instructions
+
+[instructions go here]
